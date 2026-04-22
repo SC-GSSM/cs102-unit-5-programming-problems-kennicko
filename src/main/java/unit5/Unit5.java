@@ -145,7 +145,7 @@ public class Unit5 {
      */
     // TODO: Implement static getCount()
 
-    public int getCount(){
+    public static int getCount(){
         return count;
     }
 
